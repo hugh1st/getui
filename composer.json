@@ -2,6 +2,7 @@
     "name": "hugh1st/getui",
     "description": "GetuiSDK",
     "keywords": ["getui", "getuisdk", "getui-sdk", "getui-phalcon"],
+	"version": "0.0.1",
     "authors": [
         {
             "name": "Maplelaf",
